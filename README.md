@@ -21,7 +21,7 @@ Smooth hover, calm color palette, and **zero white‑strip bug** — even on Chr
 
 ## 🔗 Live Demo
 
-👉 [View Live](https://your-username.github.io/meditation-session-ui-card)  
+👉 [View Live](https://golu-dhama.github.io/meditation-session-ui-card/)  
 *(replace with your actual GitHub Pages link or open `index.html` directly)*
 
 ---
